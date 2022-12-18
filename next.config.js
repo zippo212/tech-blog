@@ -5,6 +5,6 @@ module.exports = {
     appDir: true,
   },
   images: {
-    domains: ['cdn.dribbble.com'],
+    domains: ['cdn.dribbble.com','cdn.sanity.io'],
   },
-}
+};
