@@ -10,15 +10,16 @@ const query = groq`
     ...,
     author->,
     categories[]->,
-  } | order(_createdAt desc) 
+  } | order(publishedAt desc) 
 `
+export const revalidate = 120; // revalidate every 2 minutes
 
 const HomePage = async () => {
   if(previewData()) {
     return (
       <PreviewSuspense fallback={
         <div role="status">
-          <p className="text-center text-lg animate-pulse text-[#F7AB0A]">
+          <p className="text-center text-lg animate-pulse text-[#52ab98]">
             Loading Preview Data...
           </p>
         </div>

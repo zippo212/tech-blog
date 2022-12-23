@@ -12,13 +12,14 @@ interface Post extends Base {
     body: Block[];
     categories: Category[];
     mainImage: Image;
+    publishedAt: Date;
     slug: Slug;
     title: string;
     description: string;
 };
 
 interface Author extends Base {
-    bio: Block[];
+    bio: string;
     image: Image;
     name: string;
     slug: Slug;
