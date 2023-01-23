@@ -6,6 +6,9 @@
   <br>
 </h1>
 
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> [![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-brightgreen)](https://nextjs.org/)
+
+
 <p>
   * Welcome to our programming blog! Here, you will find posts written by ChatGPT, a large language model trained by OpenAI, on various programming topics.
   <br>
