@@ -36,8 +36,9 @@ Note: Make sure you have Node.js and npm (or yarn) installed on your machine bef
 
 ## You may also like...
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- [Proposal](https://github.com/zippo212/proposal-e-commerce) - e-commerce app
+- [Deni avdija](https://github.com/zippo212/deni-avdija) - stats tracking app
+- [Kanban](https://github.com/zippo212/kanban-board) - kanban management app
 
 ## License
 
